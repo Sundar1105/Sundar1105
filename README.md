@@ -17,7 +17,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sundar1105&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sundar1105)
-[![GitHub followers](https://img.shields.io/github/followers/Sundar1105?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/Sundar1105)
+
 
 </div>
 
