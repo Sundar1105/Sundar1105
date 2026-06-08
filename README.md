@@ -179,68 +179,14 @@ Features   : Responsive Design · Dark Mode · Animations · Contact Form
 
 | 🏛️ Institution | 📜 Degree | 📚 Field | 📅 Year |
 |:---:|:---:|:---:|:---:|
-| **Anna University (Affiliated)** | Bachelor of Engineering | Computer Science & Engineering | 2024 |
+| **The American College** | Bachelor of Computer Science  | 2024 |
 
 </div>
 
 ---
 
-<!-- CERTIFICATIONS -->
-## 📜 Certifications
 
-<div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year | 🔗 |
-|:---:|:---:|:---:|:---:|
-| Python Programming Essentials | Coursera / NPTEL | 2023 | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square)](https://github.com/Sundar1105) |
-| Web Development with Flask | Udemy | 2023 | [![View](https://img.shields.io/badge/View-EC5252?style=flat-square)](https://github.com/Sundar1105) |
-| SQL & Database Management | Oracle Academy | 2024 | [![View](https://img.shields.io/badge/View-F80000?style=flat-square)](https://github.com/Sundar1105) |
-| Django for Beginners | freeCodeCamp | 2024 | [![View](https://img.shields.io/badge/View-0A0A23?style=flat-square)](https://github.com/Sundar1105) |
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sundar1105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar1105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sundar1105&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sundar1105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Sundar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundar1105&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <!-- CONNECT WITH ME -->
 ## 🤝 Connect With Me
@@ -255,13 +201,11 @@ Features   : Responsive Design · Dark Mode · Animations · Contact Form
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:sundarraj@email.com" target="_blank">
+<a href="mailto:sundarraj1152004@email.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/sundar_raj" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+
 
 <br/><br/>
 
